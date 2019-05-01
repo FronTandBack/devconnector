@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://Kot:12345@devconnector-uimm0.mongodb.net/test?retryWrites=true"
+  "mongoURI": "mongodb+srv://Kot:12345@devconnector-uimm0.mongodb.net/test?retryWrites=true",
+  "jwtToken": "mysecrettoken"
 }
